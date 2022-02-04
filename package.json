@@ -1,0 +1,23 @@
+{
+  "name": "tugas_1",
+  "version": "1.0.0",
+  "description": "sak_sak_e",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hai": "echo \"Saya Guanteng\"",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "sak_sak_e"
+  ],
+  "author": "ilhamsans",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
